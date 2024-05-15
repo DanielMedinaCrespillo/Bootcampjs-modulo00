@@ -18,7 +18,7 @@ Creo el repositorio en Github
 
 Creacion de un readme y a continuacion staging, commit y push
 
-![alt text](image-5.png)
+![alt text](image-8.png)
 
 ## Ejercicio 4
 
