@@ -1,8 +1,5 @@
 # Laboratorio Modulo 00
 
-## awdawdawdawd
+## Ejercicio 1
 
-### awdawd
-
-awdaw
-awda
+![alt text](image.png)
